@@ -228,3 +228,5 @@ cython_debug/
 # Jetbrains config folder
 .idea/
 
+# Deepnote config files
+.deepnote/
